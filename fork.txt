@@ -1,5 +1,4 @@
 Tiziano Capparelli
 
-5-GAMMA y ALFA deberían lograr actualizar su repositorio al estado que lo dejó BETA
 IP:192.168.56.1
 Hora : 11:40
