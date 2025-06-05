@@ -6,3 +6,4 @@ y por ultimo git pull upstream main
 b. Si
 c. No lo sabemos, no tenemos un GAMMA
 d. No, pude conservar mis datos
+e - los comandos que usamos son : git remote add upstream  , git fetch upstream , git merge upstream/main,  git pull upstream main .
