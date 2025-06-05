@@ -1,0 +1,8 @@
+Capperelli Tiziano
+Alizon Gamboa
+a- Con git remote add upstream https://github.com/alinoelia/TP_SO_i2_Equipo102.git
+luego git fetch upstream para traer la metada
+y por ultimo git pull upstream main
+b. Si
+c. No lo sabemos, no tenemos un GAMMA
+d. No, pude conservar mis datos
